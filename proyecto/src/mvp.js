@@ -151,3 +151,5 @@ export function mostrarMVP() {
   // Inicialización
   cargarPosts();
 }
+
+hola
